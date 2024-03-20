@@ -4,3 +4,6 @@ In this Project, I built a virtual calculator that uses finger movements to oper
 
 ### Install Cv2
 pip3 install opencv-python
+
+### Install cvzone
+pip install cvzone
