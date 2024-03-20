@@ -7,3 +7,6 @@ pip3 install opencv-python
 
 ### Install cvzone
 pip install cvzone
+
+### Install Mediapipe
+pip install mediapipe
